@@ -1,0 +1,22 @@
+{
+  "name": "kata-rpn",
+  "version": "1.0.0",
+  "description": "Reverse Polish Notation Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmerejkowsky/kata-rpn.git"
+  },
+  "author": "OLIVE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmerejkowsky/kata-rpn/issues"
+  },
+  "homepage": "https://github.com/dmerejkowsky/kata-rpn#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
